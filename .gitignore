@@ -1,0 +1,15 @@
+# Never commit Avid software or anything derived from it.
+*.dylib
+*.dylib.*
+*.dmg
+*.pkg
+*.mpkg
+*.a
+# Never commit network captures or logs (they contain personal identifiers).
+*.pcap
+*.pcapng
+*.log
+*.ips
+*.crash
+# macOS noise
+.DS_Store

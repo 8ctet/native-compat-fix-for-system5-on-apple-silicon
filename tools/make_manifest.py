@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 8ctet
+# SPDX-License-Identifier: GPL-3.0-or-later
 """MAINTAINER TOOL — derives patch/manifest-*.txt from Avid's original libEuCon2.dylib.
 
 End users never run this (it needs Xcode Command Line Tools for `lipo`/`nm`).

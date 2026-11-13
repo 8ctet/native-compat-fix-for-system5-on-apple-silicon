@@ -112,4 +112,6 @@ Recherche, essais et correction : **8ctet**, avec Claude (Anthropic) comme assis
 
 ## Licence de ce dépôt
 
-MIT — voir [LICENSE](LICENSE). Elle couvre uniquement les fichiers de ce dépôt.
+Copyright © 2026 8ctet. Sous licence **GNU General Public License v3.0 ou ultérieure** — voir [LICENSE](LICENSE) (texte officiel en anglais).
+
+Vous pouvez utiliser, étudier, partager et modifier ces fichiers, y compris dans un studio professionnel. Quiconque les redistribue, modifiés ou non, doit le faire sous la même licence et en fournir le code source. La licence couvre uniquement les fichiers de ce dépôt et ne donne aucun droit sur un quelconque logiciel Avid.

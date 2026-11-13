@@ -8,7 +8,14 @@
 # bytes listed in patch/manifest-*.txt, re-signs it ad hoc and installs it.
 #
 # It only uses tools shipped with macOS (no Xcode / Command Line Tools needed).
-# Licence: MIT (this script and the manifest only). Not affiliated with Avid.
+# Not affiliated with Avid.
+#
+# Copyright (C) 2026 8ctet
+# SPDX-License-Identifier: GPL-3.0-or-later
+# This program is free software: you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later
+# version. It is distributed WITHOUT ANY WARRANTY; see the LICENSE file.
 
 set -u
 

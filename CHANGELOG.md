@@ -1,7 +1,7 @@
 # Changelog
 
-## 1.0.0 — 2026-11-12
-- First public release.
+## 1.0.0 — 2026-11-13
+- First public release, under the GNU GPL v3.0 or later.
 - `patcher.sh` with `status`, `install`, `build` and `restore`.
 - Patch manifest for the EUCON engine (libEuCon2 4.7.9) shipped in Avid's
   "EUCON Workstation 2021.6.1.7" installer: protocol interface-ID alignment and

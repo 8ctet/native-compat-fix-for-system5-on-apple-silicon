@@ -112,4 +112,6 @@ Research, testing and correction by **8ctet**, with Claude (Anthropic) as an AI 
 
 ## Licence of this repository
 
-MIT — see [LICENSE](LICENSE). It covers only the files in this repository.
+Copyright © 2026 8ctet. Licensed under the **GNU General Public License v3.0 or later** — see [LICENSE](LICENSE).
+
+You may use, study, share and modify these files, including in a professional studio. Anyone who distributes them, modified or not, must do so under the same licence and provide the source code. The licence covers only the files in this repository and grants no rights whatsoever in any Avid software.
